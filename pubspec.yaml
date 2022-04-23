@@ -34,6 +34,10 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
+  shared_preferences: ^2.0.12
+  http: ^0.13.4
+  fluttertoast: ^8.0.8
+  sizer: ^2.0.15
 
 dev_dependencies:
   flutter_test:
@@ -61,6 +65,25 @@ flutter:
   # assets:
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
+
+  assets:
+    - Assets/3Dobjects/Comet.gif
+    - Assets/3Dobjects/Comet1.gif
+    - Assets/3Dobjects/Comet2.gif
+    - Assets/3Dobjects/Comet3.gif
+    - Assets/3Dobjects/Comet4.gif
+    - Assets/3Dobjects/kwikCode.gif
+    - Assets/3Dobjects/KwikCode.png
+    - Assets/3Dobjects/KwikCodeLogo.gif
+    - Assets/3Dobjects/KwikCodeLogo.png
+    - Assets/HomePage/background.gif
+    - Assets/HomePage/background.jpg
+    - Assets/HomePage/finance2.jpg
+    - Assets/HomePage/finance.jpeg
+    - Assets/HomePage/gz_consultancy.jpeg
+    - Assets/HomePage/create web.jpg
+    - Assets/HomePage/insta.png
+    - Assets/HomePage/sale-and-marketing.jpg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
