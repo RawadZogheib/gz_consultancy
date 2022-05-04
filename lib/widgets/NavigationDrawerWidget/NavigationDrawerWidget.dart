@@ -75,12 +75,12 @@ class _NavigationDrawerWidgetState extends State<NavigationDrawerWidget> {
                               padding: EdgeInsets.only(
                                 left: width5,
                               ),
-                              child: Image.asset(
-                                'Assets/3Dobjects/Comet3.gif',
-                                fit: BoxFit.contain,
-                                height: height12,
-                                width: width6,
-                              ),
+                              // child: Image.asset(
+                              //   'Assets/3Dobjects/Comet3.gif',
+                              //   fit: BoxFit.contain,
+                              //   height: height12,
+                              //   width: width6,
+                              // ),
                             ),
                           ),
                           SizedBox(

@@ -4,7 +4,7 @@ import 'dart:ui';
 
 import 'package:flutter/material.dart';
 import 'package:gz_consultancy/hexColor/hexColor.dart';
-import 'package:fluttertoast/fluttertoast.dart';
+//import 'package:fluttertoast/fluttertoast.dart';
 
 //Version
 const String version = "v1.0";
@@ -54,7 +54,6 @@ const String errorException = "OOPs! Something went wrong. Try again in few seco
 const String codeFailed = "your code is incorrect";
 const String codeException = "Oops Something went wrong! please try to login again!";
 
-late FToast fToast;
 
 //for 6 digit code
 String? sixCodeNb = null;

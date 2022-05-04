@@ -67,20 +67,9 @@ flutter:
   #   - images/a_dot_ham.jpeg
 
   assets:
-    - Assets/3Dobjects/Comet.gif
-    - Assets/3Dobjects/Comet1.gif
-    - Assets/3Dobjects/Comet2.gif
-    - Assets/3Dobjects/Comet3.gif
-    - Assets/3Dobjects/Comet4.gif
-    - Assets/3Dobjects/kwikCode.gif
-    - Assets/3Dobjects/KwikCode.png
-    - Assets/3Dobjects/KwikCodeLogo.gif
-    - Assets/3Dobjects/KwikCodeLogo.png
-    - Assets/HomePage/background.gif
-    - Assets/HomePage/background.jpg
     - Assets/HomePage/finance2.jpg
     - Assets/HomePage/finance.jpeg
-    - Assets/HomePage/gz_consultancy.jpeg
+    - Assets/HomePage/gzLogo.png
     - Assets/HomePage/create web.jpg
     - Assets/HomePage/insta.png
     - Assets/HomePage/sale-and-marketing.jpg

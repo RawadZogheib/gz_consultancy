@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:gz_consultancy/page/AboutPage.dart';
 import 'package:gz_consultancy/page/HomePage.dart';
-import 'package:gz_consultancy/page/Test.dart';
 import 'package:sizer/sizer.dart';
 
 void main() {
@@ -22,8 +22,8 @@ class MyApp extends StatelessWidget {
         //home: FirstPage(),
         initialRoute: '/HomePage',
         routes: {
-          '/HomePage': (context) => HomePage(),
-          '/test': (context) => Test(),
+          '/HomePage': (context) => const HomePage(),
+          '/AboutPage': (context) => const AboutPage(),
         });
     //});
   }
